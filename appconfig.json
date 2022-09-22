@@ -5,7 +5,7 @@
     "configUrl": "./appconfig.json",
     "iconUrl": "./images/Blood Bank Ledger.png",
     "defaultWidth": 508,
-    "defaultHeight": 508,
+    "defaultHeight": 542,
 	"minWidth": 530,
 	"minHeight": 400,
 	"maxWidth": 1000,
