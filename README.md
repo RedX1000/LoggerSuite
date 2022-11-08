@@ -17,8 +17,8 @@ This plugin is an all-in-one plugin for all of my other Logger plugins. It is de
  Copy and paste this link in your browser to install LoggerSuite to Alt1 automatically <br>
 `alt1://addapp/https://redx1000.github.io/LoggerSuite/appconfig.json` <br>
 
- Or use direct link <br>
- https://redx1000.github.io/LoggerSuite <br><br>
+Or use direct link <br>
+https://redx1000.github.io/LoggerSuite <br><br>
 To install with the direct link
 1. Copy the direct link.
 2. Open Alt1 applications and open the browser.
@@ -41,6 +41,9 @@ To install with the direct link
 * <span style="font-size: 17px;">TetraLogger: An open-source Tetracompass rewards logger</span>
     *  RuneApps Forums: https://runeapps.org/forums/viewtopic.php?id=1480
     *  Github Page: https://redx1000.github.io/TetraLogger/
+* <span style="font-size: 17px;">CrystalLogger: An open-source Crystal chest, Triskelion, and Alchemist's chest rewards logger</span>
+    *  RuneApps Forums: https://runeapps.org/forums/viewtopic.php?id=1493
+    *  Github Page: https://redx1000.github.io/CrystalLogger/
 
 ### Potential or planned updates
 * Crystal Keys & Triskelions, Croesus, and TzKal-Zuk are next...
